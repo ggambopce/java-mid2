@@ -57,4 +57,7 @@ public class MyArrayListV1 {
                 size + ", capacity=" + elementData.length;
     }
 
+    public int size() {
+        return size;
+    }
 }
