@@ -9,5 +9,6 @@ public class NodeMain2 {
 
         System.out.println("연결된 노드 출력하기");
         System.out.println(first);
+
     }
 }
